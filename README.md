@@ -8,8 +8,7 @@
 **An explainable clinical decision-support dashboard for antimicrobial resistance risk
 and antibiotic stewardship.**
 
-**Live demo:** _add the Streamlit Cloud URL here after the first deploy_
-
+**Live demo:** https://resistail-sentinel.streamlit.app/
 > ⚠️ Built on a **synthetic cohort**. This is a decision-support prototype and an
 > engineering portfolio project — not a medical device, and not clinically validated.
 
