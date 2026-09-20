@@ -1,0 +1,12 @@
+# ResistAI Sentinel — pinned runtime dependencies (Python 3.11+)
+# Pinning is a security control, not a nicety: an unpinned install silently
+# pulls whatever version happens to be newest at build time. Bump these
+# deliberately, and re-run the smoke test afterwards.
+
+streamlit==1.64.0
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+joblib==1.5.3
+plotly==7.1.0
+reportlab==4.4.10
