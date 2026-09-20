@@ -613,7 +613,7 @@ Ordered by value:
 
 ## License
 
-[MIT](LICENSE) © 2026 Nader Al-Shehri
+[MIT](LICENSE) © 2026 Ahmad Alamiri
 
 ---
 
