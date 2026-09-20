@@ -1,1 +1,0 @@
-# resistai-sentinel
